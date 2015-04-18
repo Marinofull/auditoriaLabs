@@ -1,0 +1,8 @@
+Sending Access-Request of id 144 to 127.0.0.1 port 1812
+	User-Name = "wtr"
+	User-Password = "wtr"
+	NAS-IP-Address = 127.0.1.1
+	NAS-Port = 0
+	Message-Authenticator = 0x00000000000000000000000000000000
+rad_recv: Access-Accept packet from host 127.0.0.1 port 1812, id=144, length=32
+	Reply-Message = "Hello, wtr"

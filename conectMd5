@@ -1,0 +1,35 @@
+Sending Access-Request packet to host 127.0.0.1 port 1812, id=124, length=0
+	User-Name = "wtr"
+	User-Password = "wtr"
+	NAS-IP-Address = 127.0.1.1
+	NAS-Port = 0
+	Message-Authenticator = 0x00
+	EAP-Code = Response
+	EAP-Type-Identity = "wtr"
+	EAP-Message = 0x027b000801777472
+Received Access-Challenge packet from host 127.0.0.1 port 1812, id=124, length=92
+	Reply-Message = "Hello, wtr"
+	EAP-Message = 0x017c0016041035a6d93d3850322de94982f7de87434d
+	Message-Authenticator = 0xf9c5441938ce8cacf8034fd68a31b6e2
+	State = 0x77ce70bc77b27486dab3ebeed085984f
+	EAP-Id = 124
+	EAP-Code = Request
+	EAP-Type-MD5 = 0x1035a6d93d3850322de94982f7de87434d
+Sending Access-Request packet to host 127.0.0.1 port 1812, id=125, length=83
+	User-Name = "wtr"
+	User-Password = "wtr"
+	NAS-IP-Address = 127.0.1.1
+	NAS-Port = 0
+	Message-Authenticator = 0x00000000000000000000000000000000
+	EAP-Code = Response
+	EAP-Type-MD5 = 0x10ee8e425a384f854973719e140cbb5781
+	EAP-Id = 124
+	State = 0x77ce70bc77b27486dab3ebeed085984f
+	EAP-Message = 0x027c00160410ee8e425a384f854973719e140cbb5781
+Received Access-Accept packet from host 127.0.0.1 port 1812, id=125, length=61
+	Reply-Message = "Hello, wtr"
+	EAP-Message = 0x037c0004
+	Message-Authenticator = 0xc9b435682732719acc88f498c45a47b7
+	User-Name = "wtr"
+	EAP-Id = 124
+	EAP-Code = Success
