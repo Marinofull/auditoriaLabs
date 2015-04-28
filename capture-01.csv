@@ -1,0 +1,15 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+2C:E6:CC:2B:35:F8, 2015-04-10 23:59:11, 2015-04-10 23:59:21,  8,  -1, OPN ,       ,   ,  -1,        0,        5, 172. 20. 39. 74,   0, , 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+68:B5:99:33:97:81, 2015-04-10 23:59:09, 2015-04-10 23:59:40, -84,       36, (not associated) , MandolLink
+40:78:6A:7C:07:2A, 2015-04-10 23:59:11, 2015-04-10 23:59:21, -82,      118, 2C:E6:CC:2B:35:F8,
+10:F9:6F:B5:B8:9C, 2015-04-10 23:59:29, 2015-04-10 23:59:29, -78,        1, (not associated) ,
+30:A8:DB:99:2D:14, 2015-04-10 23:59:31, 2015-04-10 23:59:31, -76,        2, (not associated) , UFBA-Visitante
+88:9B:39:AF:0C:6B, 2015-04-10 23:59:17, 2015-04-10 23:59:38, -74,        4, (not associated) , UFBA-Visitante
+B4:F0:AB:84:A5:AC, 2015-04-10 23:59:14, 2015-04-10 23:59:14, -62,        2, (not associated) , DISUP
+98:FC:11:DD:B5:C6, 2015-04-10 23:59:21, 2015-04-10 23:59:21, -62,        1, (not associated) ,
+D0:51:62:AC:64:93, 2015-04-10 23:59:22, 2015-04-10 23:59:22, -60,        2, (not associated) ,
+24:C6:96:78:C3:F7, 2015-04-10 23:59:40, 2015-04-10 23:59:40, -56,        2, (not associated) , UFBA-Visitante
+
