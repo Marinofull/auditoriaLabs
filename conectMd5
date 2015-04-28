@@ -1,0 +1,63 @@
+Sending Access-Request packet to host 127.0.0.1 port 1812, id=24, length=0
+	User-Name = "wtr"
+	User-Password = "wtr"
+	NAS-IP-Address = 127.0.1.1
+	NAS-Port = 0
+	Message-Authenticator = 0x00
+	EAP-Code = Response
+	EAP-Type-Identity = "wtr"
+	EAP-Message = 0x0217000801777472
+Sending Access-Request packet to host 127.0.0.1 port 1812, id=24, length=83
+	User-Name = "wtr"
+	User-Password = "wtr"
+	NAS-IP-Address = 127.0.1.1
+	NAS-Port = 0
+	Message-Authenticator = 0x00000000000000000000000000000000
+	EAP-Code = Response
+	EAP-Type-Identity = "wtr"
+	EAP-Message = 0x0217000801777472
+Sending Access-Request packet to host 127.0.0.1 port 1812, id=24, length=83
+	User-Name = "wtr"
+	User-Password = "wtr"
+	NAS-IP-Address = 127.0.1.1
+	NAS-Port = 0
+	Message-Authenticator = 0x00000000000000000000000000000000
+	EAP-Code = Response
+	EAP-Type-Identity = "wtr"
+	EAP-Message = 0x0217000801777472
+Sending Access-Request packet to host 127.0.0.1 port 1812, id=24, length=83
+	User-Name = "wtr"
+	User-Password = "wtr"
+	NAS-IP-Address = 127.0.1.1
+	NAS-Port = 0
+	Message-Authenticator = 0x00000000000000000000000000000000
+	EAP-Code = Response
+	EAP-Type-Identity = "wtr"
+	EAP-Message = 0x0217000801777472
+Sending Access-Request packet to host 127.0.0.1 port 1812, id=24, length=83
+	User-Name = "wtr"
+	User-Password = "wtr"
+	NAS-IP-Address = 127.0.1.1
+	NAS-Port = 0
+	Message-Authenticator = 0x00000000000000000000000000000000
+	EAP-Code = Response
+	EAP-Type-Identity = "wtr"
+	EAP-Message = 0x0217000801777472
+Sending Access-Request packet to host 127.0.0.1 port 1812, id=24, length=83
+	User-Name = "wtr"
+	User-Password = "wtr"
+	NAS-IP-Address = 127.0.1.1
+	NAS-Port = 0
+	Message-Authenticator = 0x00000000000000000000000000000000
+	EAP-Code = Response
+	EAP-Type-Identity = "wtr"
+	EAP-Message = 0x0217000801777472
+Sending Access-Request packet to host 127.0.0.1 port 1812, id=24, length=83
+	User-Name = "wtr"
+	User-Password = "wtr"
+	NAS-IP-Address = 127.0.1.1
+	NAS-Port = 0
+	Message-Authenticator = 0x00000000000000000000000000000000
+	EAP-Code = Response
+	EAP-Type-Identity = "wtr"
+	EAP-Message = 0x0217000801777472

@@ -1,0 +1,63 @@
+server wtr{
+	authorize{
+		suffix
+		auth_log
+		files
+		#ldap
+		mschap
+		pap
+		eap{
+			ok = return
+		}
+	}
+
+	authenticate{
+		#Auth-Type LDAP{
+		#	ldap
+		#}
+
+		Auth-Type PAP{
+			pap
+		}
+		Auth-Type MS-CHAP{
+			mschap
+		}
+		eap
+	}
+
+	preacct{
+	}
+
+	accounting{
+		detail
+		radutmp
+		unix
+		attr_filter.accounting_response
+	}
+
+	session{
+		radutmp
+	}
+
+	post-auth{
+		reply_log
+		Post-Auth-Type REJECT{
+			reply_log
+		}
+	}
+
+	pre-proxy{
+	}
+
+	post-proxy{
+		eap
+		post_proxy_log
+		attr_filter.post-proxy
+		Post-Proxy-Type Fail{
+			detail
+		}
+	}
+}
+
+
+
